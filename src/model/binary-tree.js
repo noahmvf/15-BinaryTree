@@ -1,6 +1,7 @@
 'use strict';
 
 import Node from './node';
+
 class BinaryTree {
   constructor(root = null) {
     this.root = root;
